@@ -25,10 +25,10 @@ width="500"/>
 alt="Image of my second graph. "
 width="500"/>
 
-<img src="Third.png"
+<img src="Third_graph.png"
 alt="Image of my third graph. "
 width="500"/>
 
-## This is a small header
+## Final Takeaway
 
-This is basic paragraph text.
+Overall, the data strongly suggests that adding short explainer videos would benefit a large portion of COMP110 students, especially beginners who are still building confidence.
