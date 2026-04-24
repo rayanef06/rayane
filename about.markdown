@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# EX09 Data Analysis — Should COMP110 Add Explainer Videos?
+# EX09 Data Analysis - Should COMP110 Add Explainer Videos?
 
 ## The Idea
 
