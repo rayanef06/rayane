@@ -3,10 +3,12 @@
 layout: default
 ---
 
-# This is a big header
+# Rayane Fadel's personal website
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="comp_110.png"
+alt="Image of my first graph. "
+width="500"/>
 
 ## This is a small header
 
