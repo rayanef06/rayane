@@ -15,12 +15,12 @@ width="500"/>
 Hey! I'm Rayane, originally from Morocco 🇲🇦 so French is my first language. I'm a student at UNC Chapel Hill taking COMP110. Outside of class I love playing soccer (Hala Madrid ⚽), playing tennis, and watching movies (The Godfather is my all time favorite.)
 
 ## My COMP110 Data Project
+[Click here to see my full analysis](about)
 
 For my EX09 project, I analyzed survey data from COMP110 students to explore whether adding short optional pre-lecture explainer videos would help students, especially beginners.
 
 The data supports it! Students with less experience and lower self-reported understanding consistently wanted these videos more.
 
-[Click here to see my full analysis](about)
 <img src="First_graph.png"
 alt="Image of my first graph. "
 width="500"/>
