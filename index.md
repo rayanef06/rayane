@@ -6,6 +6,10 @@ layout: default
 
 # Rayane Fadel's Personal Website
 
+<img src="Linkedin_Picture.png"
+alt="Picture of Rayane. "
+width="500"/>
+
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 
 Hey! I'm Rayane, originally from Morocco 🇲🇦 so French is my first language. I'm a student at UNC Chapel Hill taking COMP110. Outside of class I love playing soccer (Hala Madrid ⚽), playing tennis, and watching movies (The Godfather is my all time favorite.)
