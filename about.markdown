@@ -26,7 +26,7 @@ Students with no experience averaged around 5.5 out of 7 for interest in explain
 
 ## Chart 3: Interest in Videos by Self-Reported Understanding
 
-  <img src="{{ site.baseurl }}/Third.png" width="500"/>
+  <img src="{{ site.baseurl }}/Third_graph.png" width="500"/>
 
 Students who feel the most lost in the course rated their interest the highest (~6/7). Students who feel they understand everything rated it lowest (~4.6/7).
 
