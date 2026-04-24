@@ -32,12 +32,18 @@ Students who feel the most lost in the course rated their interest the highest (
 
 ## Conclusion
 
-The data supports the hypothesis. Both charts show the same pattern: the less experience and confidence a student has, the more they want explainer videos.
+From my analysis, the data supports the idea that COMP110 should provide short optional explainer videos, especially for students with little to no prior programming experience.
 
-**Trade-off:** Creating good videos takes a lot of instructor time, and experienced students may never use them.
+There are three key findings that support this. First, over 60% of students (478 out of 764) reported having little to no prior programming experience, meaning beginners make up the majority of the class. Second, students with less experience showed the highest interest in explainer videos (around 5.5 out of 7), while interest decreased as experience increased. Third, students who felt the most lost in the course reported the highest interest in these videos (around 6 out of 7).
+
+Together, these results suggest that the students who need the most support are also the ones who would benefit the most from explainer videos.
+
+**Trade-off:** Creating high-quality videos would require significant instructor time, and more experienced students may not use them.
 
 **Limitation:** Being interested in a resource doesn't mean you'll actually use it.
 
-**Future work:** Piloting real videos and tracking whether usage actually improves grades would give much stronger evidence.
+**Refinements:** Track which topics students struggle with the most and prioritize videos for those topics. It would also be useful to test whether watching these videos actually improves student understanding and performance.
+
+Overall, the data suggests that adding optional explainer videos would likely provide real value for many COMP110 students, particularly beginners.
 
 [Back to Home](.)
